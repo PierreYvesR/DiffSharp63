@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
 
-    <PackageId>DiffSharp</PackageId>
+    <PackageId>DiffSharp-32bit</PackageId>
     <version>0.6.3-forked</version>
     <title>DiffSharp: Automatic Differentiation Library</title>
     <Authors>Atılım Güneş Baydin,Barak A. Pearlmutter</Authors>
