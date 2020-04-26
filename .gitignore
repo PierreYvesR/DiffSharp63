@@ -1,0 +1,14 @@
+.paket/
+paket-files/
+.vs/
+
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+src/*/[Bb]in/
+src/*/[Oo]bj/
+src/*/Scratch/

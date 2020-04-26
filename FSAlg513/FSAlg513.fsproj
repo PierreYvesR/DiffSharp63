@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Util.fs" />
+    <Compile Include="Vector.fs" />
+    <Compile Include="Matrix.fs" />
+    <Compile Include="Ops.fs" />
+    <Compile Include="AssemblyInfo.fs" />
+    <None Include="FsAlg.fsproj" />
+    <None Include="Test.fsx" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>
