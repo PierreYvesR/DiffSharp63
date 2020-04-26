@@ -2,6 +2,29 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>DiffSharp</PackageId>
+    <version>0.6.3-forked</version>
+    <title>DiffSharp: Automatic Differentiation Library</title>
+    <Authors>Atılım Güneş Baydin,Barak A. Pearlmutter</Authors>
+    <owners>PierreYvesR</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license>BSD-2-Clause</license>
+    <licenseUrl>https://licenses.nuget.org/BSD-2-Clause</licenseUrl>
+    <iconUrl>http://diffsharp.github.io/DiffSharp/img/diffsharp-logo.png</iconUrl>
+    <description>This is a fork of DiffSharp 0.6.3 that supports 32-bit</description>
+    <releaseNotes>Please visit
+
+https://github.com/DiffSharp/DiffSharp/releases
+
+for the latest release notes.</releaseNotes>
+    <copyright>Copyright (c) 2016-     University of Oxford (Atilim Gunes Baydin)
+Copyright (c) 2017-     Microsoft Research, Cambridge, UK (Don Syme)
+Copyright (c) 2014-     National University of Ireland Maynooth (Barak A. Pearlmutter)
+Copyright (c) 2014-2016 National University of Ireland Maynooth (Atilim Gunes Baydin)</copyright>
+    <tags>Differentiation Automatic Symbolic Numerical Optimization Machine Learning FSharp F#</tags>
+    
+
   </PropertyGroup>
 
   <ItemGroup>
